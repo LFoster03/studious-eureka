@@ -1,16 +1,14 @@
 """
 Module: utils_foster
 
-Purpose: Reusable Module for My Analytics Projects
+Purpose: Reusable Module for My Bird Project
 
-Description: This module provides a byline for my analytics projects. 
-When we work hard to write useful code, we want it to be reusable.
-A good byline could be used in every Python analytics project we do.
+Description: This module provides a byline for my bird project. 
+When we study the habits of birds, we can discover how they live.
+A bird can fly, eat worms, and build nests.
 
 Author: Lindsay Foster
 
-TODO: Change the module name in this opening docstring
-TODO: Change the author in this opening docstring
 """
 
 #####################################
@@ -58,7 +56,7 @@ stdev_score: float = statistics.stdev(number_of_worms_eaten)
 # TODO: Modify the variables in the byline to use your variable names
 byline: str = f"""
 ---------------------------------------------------------
-Stellar Analytics: Delivering Professional Insights
+Stellar Bird Verbage: Discovering Adaptability
 ---------------------------------------------------------
 Has Wings:  {has_wings}
 Number of Wings:         {number_of_wings}
