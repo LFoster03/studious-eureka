@@ -5,7 +5,8 @@ Purpose: Reusable Module for My Bird Project
 
 Description: This module provides a byline for my bird project. 
 When we study the habits of birds, we can discover how they live.
-A bird can fly, eat worms, and build nests.
+A bird can fly, eat worms, and build nests. Discover the average
+amount of worms these particular birds eat.
 
 Author: Lindsay Foster
 
